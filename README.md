@@ -2,7 +2,7 @@ First Project of semester 5 ;
 also testing Github
 
 
-## This is a basic python applicaton that i made download videos from Youtube. 
+## This is a basic python applicaton that i made to download videos from Youtube. 
 i could not find a single competent applicaton to download videos on pc as i dont have constant access to internet on my pc.
 also semester 5 was around the same time i made this so i just submitted this as a mini project
 
