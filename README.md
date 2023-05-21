@@ -1,4 +1,4 @@
-first Project of semester 5 ;
+First Project of semester 5 ;
 also testing Github
 
 
