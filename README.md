@@ -11,4 +11,4 @@ i wont's start shilling this as some great application and recommend you to down
 also there is not a good lightweight application to stream YT-music on pc so i might make that as well in the future ;)
 
 
-Edit : Doesn't Work Anymore.... i guess. may hoave to do some workaround
+Edit : Doesn't Work Anymore.... i guess. may have to do some workaround
