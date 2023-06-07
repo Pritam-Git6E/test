@@ -9,3 +9,6 @@ also semester 5 was around the same time i made this so i just submitted this as
 i wont's start shilling this as some great application and recommend you to download but i use this myself and this is just testing application 
 
 also there is not a good lightweight application to stream YT-music on pc so i might make that as well in the future ;)
+
+
+Edit : Doesn't Work Anymore.... i guess. may hoave to do some workaround
